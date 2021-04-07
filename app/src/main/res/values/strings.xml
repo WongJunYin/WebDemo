@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWebDemo</string>
+    <string name="student_id">Student ID</string>
+    <string name="student_name">Student Name</string>
+    <string name="program">Program</string>
+    <string name="search">Search</string>
+    <string name="add">ADD</string>
+    <string name="get_all">GET ALL</string>
+</resources>
